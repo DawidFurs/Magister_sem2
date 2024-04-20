@@ -1,0 +1,1 @@
+zmienna_do_importu = "Hello"
